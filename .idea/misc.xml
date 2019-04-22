@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="shellPath" value="H:\MongoDB\mongodb406\bin\mongo.exe" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="SEELE" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (scrapy15)" project-jdk-type="Python SDK" />
+</project>
